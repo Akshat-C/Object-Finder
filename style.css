@@ -1,0 +1,22 @@
+body {
+    background-image: url("pexels-pixabay-247676.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+div {
+    padding-left: 30px;
+    padding-right: 30px;
+    height: 170px;
+    border-radius: 20px;
+    color:beige;
+    margin-top: 30px;
+    background-color: deepskyblue;
+    width: 60%;
+}
+
+#info {
+    height: fit-content;
+    padding: 20px;
+    margin-top: 20px;
+}
